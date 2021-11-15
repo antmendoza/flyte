@@ -268,7 +268,7 @@ Who's Using Flyte?
 
 At `Lyft <https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59>`__, Flyte has served production model training and data processing for over four years, becoming the de-facto platform for the Pricing, Locations, ETA, Mapping teams, Growth, Autonomous and other teams.
 
-For the most current list of Flyte's deployments, please click `here <https://github.com/flyteorg/flyte#%EF%B8%8F-current-deployments>`_.
+For the most current list of Flyte's deployments, please click `here <https://github.com/flyteorg/flyte#%EF%B8%8F-current-deployments--contributors>`_.
 
 Next Steps
 ----------
